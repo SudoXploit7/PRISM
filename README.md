@@ -6,7 +6,8 @@ PRISM performs **read-only** analysis of AWS accounts using boto3. It calculates
 
 ---
 
-<img width="1497" height="937" alt="Screenshot 2026-04-16 182642" src="https://github.com/user-attachments/assets/adec7b58-b99c-4e50-a340-c390d7dd91c2" />
+<img width="942" height="469" alt="Screenshot 2026-05-24 234900" src="https://github.com/user-attachments/assets/b8242796-400d-48f8-b85e-e9dc725a786e" />
+
 
 ---
 
@@ -113,14 +114,13 @@ PRISM/
 
 ## Screenshots
 
-<img width="1419" height="825" alt="Screenshot 2026-04-16 182716" src="https://github.com/user-attachments/assets/95133196-6abe-4242-b121-d1ea94fcf4a0" />
+<img width="721" height="407" alt="Screenshot 2026-05-24 234925" src="https://github.com/user-attachments/assets/f276d5c8-50af-4a14-aebb-3dbcd45cf59a" />
 
+<img width="764" height="439" alt="Screenshot 2026-05-24 235113" src="https://github.com/user-attachments/assets/b3901a26-bc69-4dbe-9c61-e7f33bffe496" />
 
-<img width="1446" height="830" alt="Screenshot 2026-04-16 182750" src="https://github.com/user-attachments/assets/9b1c979c-1ccb-4175-a927-f7059344dc91" />
+<img width="759" height="419" alt="Screenshot 2026-05-24 235134" src="https://github.com/user-attachments/assets/3e140f27-c566-4b8b-88d8-08d3c30bb059" />
 
-
-<img width="1396" height="800" alt="Screenshot 2026-04-16 182803" src="https://github.com/user-attachments/assets/4b513151-2bcf-4012-971c-342522f12fb3" />
-
+<img width="694" height="412" alt="Screenshot 2026-05-24 235249" src="https://github.com/user-attachments/assets/08fc565a-06da-4d15-9e8a-eaf55bc61102" />
 
 ---
 
