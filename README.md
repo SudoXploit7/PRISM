@@ -6,14 +6,7 @@ PRISM performs **read-only** analysis of AWS accounts using boto3. It calculates
 
 ---
 
-<!--
-  SCREENSHOT PLACEHOLDER 1
-  Place here: Full dashboard screenshot showing the main scan results page.
-  Recommended: A wide (1600×900 or similar) screenshot of the dashboard after a completed scan,
-  showing the risk score panel, findings summary table, and the left sidebar navigation.
-  Filename suggestion: docs/screenshots/dashboard-overview.png
--->
-<!-- ![Dashboard Overview](docs/screenshots/dashboard-overview.png) -->
+<img width="1497" height="937" alt="Screenshot 2026-04-16 182642" src="https://github.com/user-attachments/assets/adec7b58-b99c-4e50-a340-c390d7dd91c2" />
 
 ---
 
@@ -120,34 +113,14 @@ PRISM/
 
 ## Screenshots
 
-<!--
-  SCREENSHOT PLACEHOLDER 2
-  Place here: The attack graph visualization panel.
-  Recommended: The vis.js network graph showing IAM identities as nodes, with edges representing
-  trust relationships and privilege escalation paths. Ideally captured mid-scan or after a scan
-  with several connected nodes visible.
-  Filename suggestion: docs/screenshots/attack-graph.png
--->
-<!-- ![Attack Graph](docs/screenshots/attack-graph.png) -->
+<img width="1419" height="825" alt="Screenshot 2026-04-16 182716" src="https://github.com/user-attachments/assets/95133196-6abe-4242-b121-d1ea94fcf4a0" />
 
-<!--
-  SCREENSHOT PLACEHOLDER 3
-  Place here: The MVC Engine output panel.
-  Recommended: The "Minimum Viable Compromise" results section showing a 2–3 hop attack path
-  from a low-privilege identity to Account Admin, with the step-by-step breakdown and estimated
-  time-to-compromise displayed.
-  Filename suggestion: docs/screenshots/mvc-engine.png
--->
-<!-- ![MVC Engine — Shortest Path to Admin](docs/screenshots/mvc-engine.png) -->
 
-<!--
-  SCREENSHOT PLACEHOLDER 4
-  Place here: A generated PDF report page.
-  Recommended: The first or second page of an exported PDF report, showing the risk summary,
-  CVSS scores, and findings table. Can be a cropped screenshot from a PDF viewer.
-  Filename suggestion: docs/screenshots/pdf-report.png
--->
-<!-- ![PDF Report Output](docs/screenshots/pdf-report.png) -->
+<img width="1446" height="830" alt="Screenshot 2026-04-16 182750" src="https://github.com/user-attachments/assets/9b1c979c-1ccb-4175-a927-f7059344dc91" />
+
+
+<img width="1396" height="800" alt="Screenshot 2026-04-16 182803" src="https://github.com/user-attachments/assets/4b513151-2bcf-4012-971c-342522f12fb3" />
+
 
 ---
 
