@@ -130,7 +130,7 @@ PRISM/
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/PRISM.git
+git clone https://github.com/SudoXploit7/PRISM.git
 cd PRISM
 
 # Install dependencies
